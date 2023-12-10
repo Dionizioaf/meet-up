@@ -1,5 +1,7 @@
 # meet-up
 
+Evento realizado em nome da Ammo Varejo SA em parceria com a Impulso.
+
 ## Ações de segurança e economia que você deve considerar implementar
 
 ### Link da apresentação:
